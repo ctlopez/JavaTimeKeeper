@@ -1,0 +1,6 @@
+100|A|Clown Simulator|This is a software project to simulate the effects of a clown.
+110|A|Fluffy Bunny|This is a robotic weapons project designed for world domination.
+120|A|Basic Accounting|This is basic accounting software.
+130|A|Criminal Accounting|This is accounting software designed to manage two sets of books to help hide criminal activity.
+140|I|Humanitarian Support|A program for making the world a better place out of the goodness of our hearts.
+150|A|Game of Awesomeness|The most awesome game ever.
